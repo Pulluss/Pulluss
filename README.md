@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="">
   <img height="150" src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"  />
 </div>
 
