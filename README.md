@@ -45,7 +45,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" width="150" src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"  />
+  <img height="150" width="500" src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"  />
 </div>
 
 ###
